@@ -17,4 +17,4 @@ The image below shows how the BobgsBagels.Finance.LegacyApp written in VB has a 
 
 Don't worry.  We won't be covering VB in this course. :-)
 
-![](./images/BBI_project_reference.JPG)
+![](./images/BBI_project_references.JPG)
