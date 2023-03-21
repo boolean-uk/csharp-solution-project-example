@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobsBagelsInc.Marketing", "BobsBagelsInc.Marketing\BobsBagelsInc.Marketing.csproj", "{C7117CC3-2942-4C2A-BFB7-38203F986C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobsBagelsInc.ITDepartment", "BobsBagelsInc.ITDepartment\BobsBagelsInc.ITDepartment.csproj", "{858A5ADF-44E6-426A-953C-F20AFAEC5869}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BobsBagelsInc.Finance.LegacyApp", "BobsBagelsInc.Finance.LegacyApp\BobsBagelsInc.Finance.LegacyApp.vbproj", "{0C5FE36A-54AF-4D1B-9E23-67E9CC363A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobsBagelsInc.WebDevelopment.www1", "BobsBagelsInc.WebDevelopment.www1\BobsBagelsInc.WebDevelopment.www1.csproj", "{EC45C652-E110-4524-AB0C-CC560FA1C4EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobsBagelsInc.ITDepartment.Database.Oracle", "BobsBagelsInc.ITDepartment.Database.Oracle\BobsBagelsInc.ITDepartment.Database.Oracle.csproj", "{22DFF6EE-4527-45B2-A13C-E253D281424B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobsBagelsInc.Europe.Marketing", "BobsBagelsInc.Europe.Marketing\BobsBagelsInc.Europe.Marketing.csproj", "{17C7E84B-C144-4AEF-B875-57621BA31390}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{6A7C7280-7A13-42CF-A128-2844F7A09F1D}"
+	ProjectSection(SolutionItems) = preProject
+		images\BBI_solution.JPG = images\BBI_solution.JPG
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7117CC3-2942-4C2A-BFB7-38203F986C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7117CC3-2942-4C2A-BFB7-38203F986C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7117CC3-2942-4C2A-BFB7-38203F986C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7117CC3-2942-4C2A-BFB7-38203F986C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858A5ADF-44E6-426A-953C-F20AFAEC5869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858A5ADF-44E6-426A-953C-F20AFAEC5869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858A5ADF-44E6-426A-953C-F20AFAEC5869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858A5ADF-44E6-426A-953C-F20AFAEC5869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C5FE36A-54AF-4D1B-9E23-67E9CC363A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5FE36A-54AF-4D1B-9E23-67E9CC363A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5FE36A-54AF-4D1B-9E23-67E9CC363A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5FE36A-54AF-4D1B-9E23-67E9CC363A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC45C652-E110-4524-AB0C-CC560FA1C4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC45C652-E110-4524-AB0C-CC560FA1C4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC45C652-E110-4524-AB0C-CC560FA1C4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC45C652-E110-4524-AB0C-CC560FA1C4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DFF6EE-4527-45B2-A13C-E253D281424B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DFF6EE-4527-45B2-A13C-E253D281424B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DFF6EE-4527-45B2-A13C-E253D281424B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DFF6EE-4527-45B2-A13C-E253D281424B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C7E84B-C144-4AEF-B875-57621BA31390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C7E84B-C144-4AEF-B875-57621BA31390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C7E84B-C144-4AEF-B875-57621BA31390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C7E84B-C144-4AEF-B875-57621BA31390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF80EA8-FB12-4D36-9211-C47ECF447404}
+	EndGlobalSection
+EndGlobal
