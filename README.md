@@ -21,3 +21,28 @@ The image below shows how the **BobgsBagels.Finance.LegacyApp** written in VB ha
 Don't worry.  We won't be covering VB in this course. :-)
 
 ![](./images/BBI_project_references.JPG)
+
+Couple of interesting points here.  
+
+Note the imports statement at the top of of the VB page.  This is importing the **Namespace** which is the project name in our case.  It is generally good practice to name your projects in this way to make it clear what code you would expect/put in each project.  
+
+The other thing worth noting is how in the **BobsBagelsInc.ITDepartment.Database.PostgreSQL** class named **PostgresSqlDataAccess.cs** 
+```
+  public void DoSomethingWithCompanyDatabase()
+  {
+
+      //do something with company database 
+
+
+
+      /*
+
+      I would imagine we would write something here 
+       to update some records in the database 
+
+      */
+  }
+```
+See the /// <sumary>  line  and how this line is closed with a /// </summary>   ?
+This is an XML comment.  This is how we can write some information about the code and what it does.  Wherever we reference and call this method, Visual Studios intellisense will show this comment, telling us what the code does.
+Other ways of writing comments appear within the method itself.

@@ -7,7 +7,17 @@
         /// </summary>
         public void DoSomethingWithCompanyDatabase()
         {
+            
             //do something with company database 
+
+            
+            
+            /*
+            
+            I would imagine we would write something here 
+             to update some records in the database 
+             
+            */
         }
     }
 }
