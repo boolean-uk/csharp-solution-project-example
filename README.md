@@ -1,7 +1,10 @@
+# C# Build Tools - Development Workflow & Environment Setup
 # C# Solution Project Example
 
 ## Learning Objectives
 - to understand projects and solutions in c#
+- start exploring namespaces and references
+
 
 ## Solution Layout
 A solution is a useful way of grouping projects.   A companys codebase could reside in a single solution or multiple solutions.  Those solutions may have single or many projects in them!  There is no right or wrong way of laying out a solution and projects.  I have seen solutions with single projects or solutions that contain 30 plus projects.  
